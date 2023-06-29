@@ -25,13 +25,11 @@ npm install
 
 Agrega las siguientes variables de entorno al archivo .env y configúralas según tu entorno de desarrollo:
 
-- dotenv
-
-DB_USER=usuario_de_postgres
-DB_PASSWORD=password_de_postgres
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=joyas
+ - DB_USER=usuario_de_postgres
+ - DB_PASSWORD=password_de_postgres
+ - DB_HOST=localhost
+ - DB_PORT=5432
+ - DB_NAME=joyas
 
 ## Inicia la aplicación:
 
